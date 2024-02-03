@@ -34,6 +34,8 @@
     "@types/node": "^20.11.6",
     "@vitest/coverage-v8": "^1.2.1",
     "changelogen": "^0.5.5",
+    "citty": "^0.1.5",
+    "consola": "^3.2.3",
     "eslint": "^8.56.0",
     "eslint-config-unjs": "^0.2.1",
     "jiti": "^1.21.0",
